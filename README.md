@@ -12,7 +12,7 @@ Known issues and limitations
 * Visual Studio must be opened before any solution. When double clicking an sln file the command is not loaded.
 * Doesn't work on earlier versions of Visual Studio and it wasn't checked with versions in languages other than English.
 
-Donwload
+Download
 --------
 
 - [Version 0.1 (453.5 KB)](https://github.com/alfonsocora/vs-breakall/raw/master/Installer.msi)
