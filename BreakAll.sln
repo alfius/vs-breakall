@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakAll", "BreakAll\BreakAll.csproj", "{20E74768-7E07-4A83-9327-B51B7BCF4692}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{1DBC0BCC-E1D2-44C0-B743-D9FA30458B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E74768-7E07-4A83-9327-B51B7BCF4692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E74768-7E07-4A83-9327-B51B7BCF4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E74768-7E07-4A83-9327-B51B7BCF4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E74768-7E07-4A83-9327-B51B7BCF4692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBC0BCC-E1D2-44C0-B743-D9FA30458B00}.Debug|Any CPU.ActiveCfg = Debug
+		{1DBC0BCC-E1D2-44C0-B743-D9FA30458B00}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
