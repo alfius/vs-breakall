@@ -10,6 +10,7 @@ Known issues and limitations
 ----------------------------
 
 * Visual Studio must be opened before any solution. When double clicking an sln file the command is not loaded.
+* Fails to set a breakpoint when the first line on a method is not allowed to have a breakpoint.
 * Doesn't work on earlier versions of Visual Studio and it wasn't checked with versions in languages other than English.
 
 Download
